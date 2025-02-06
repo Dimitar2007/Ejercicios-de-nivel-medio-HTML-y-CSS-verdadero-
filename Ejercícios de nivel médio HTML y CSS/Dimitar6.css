@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    margin: 0rem;
+}
+
+body {
+    background-color: rgb(13, 116, 98);
+}
+
+.contenedor {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.Caja1 {
+    background-color: azure;
+    width: 70%;
+    margin: auto;
+    border: 0.5rem solid rgb(0, 0, 0);
+    border-radius: 1.5rem;
+    padding: 0.938rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.Caja2 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem solid rgb(139, 33, 0);
+    background-color: rgb(233, 112, 112);
+    border-radius: 5rem 0 0 5rem;
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.Caja3 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem solid rgb(156, 102, 2);
+    background-color: rgb(202, 138, 41);
+    border-radius: 0 5rem 5rem 0;
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+
+
+}
+
+.Caja4 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem dashed rgb(0, 115, 223);
+    background-color: rgb(17, 60, 179);
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.Caja5 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem solid rgb(139, 33, 0);
+    background-color: rgb(233, 112, 112);
+    border-radius: 5rem 0 0 5rem;
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.Caja6 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem solid rgb(156, 102, 2);
+    background-color: rgb(202, 138, 41);
+    border-radius: 0 5rem 5rem 0;
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.Caja7 {
+    width: 70%;
+    margin: auto;
+    border: 0.5rem dashed rgb(0, 115, 223);
+    background-color: rgb(17, 60, 179);
+    padding: 0.938rem;
+    color: white;
+    margin-bottom: 1rem;
+    text-align: center;
+}

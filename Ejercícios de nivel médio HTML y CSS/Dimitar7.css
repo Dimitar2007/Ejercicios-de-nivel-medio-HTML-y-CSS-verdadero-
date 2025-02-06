@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0rem;
+}
+
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%; 
+  }
+  body{ 
+    font-size: 1.6rem;
+  }
+  h1{ font-size: 4rem;}
+
+
+h1{
+    text-align: center;
+}
+
+#naranja{
+    background-color: rgb(255, 196, 106);
+    clear: both;
+    width: 90%;
+    border-radius: 0rem ;
+    text-align: center;
+}
+
+/*No terminado*/

@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0rem;
+}
+
+body{
+    background-color: rgb(190, 190, 190);
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    background-color: rgb(110, 110, 110);
+        color: aliceblue;  
+    clear: both;
+    border-radius: 0rem ;
+    width: 97%; 
+    margin: 0 auto; 
+    padding: 0.2rem; 
+}
+
+.rojo{
+        color: red;
+}
+
+.html {
+    display: flex; 
+    align-items: flex-start;
+    margin: 1.5rem auto;
+}
+
+.html img {
+    width: 10rem; 
+    height: auto;
+    margin-left: 5rem; 
+}
+
+.css {
+    display: flex; 
+    align-items: flex-start; 
+    margin: 1.5rem auto;
+}
+
+.css img {
+    width: 7.5rem; 
+    height: auto;
+    margin-left: 5rem; 
+}
+
+.texto {
+    max-width: 60rem; 
+}
+
